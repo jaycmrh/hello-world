@@ -1,0 +1,1616 @@
+<!DOCTYPE html>
+<html ng-app='mfcsApp'  flow-init>
+<head>
+
+                                                                                          <!--
+            __ _.- -..- -._ _
+         .-' _/   _/\_   \_'-.
+        |__ /   _/\__/\_   \__|
+           |___/\_\__/  \___|
+                  \__/
+                  \__/
+                   \__/
+                    \__/
+                 ____\__/___
+           . - '             ' -.
+          /         MFCS         \
+    ~~~~~~~  ~~~~~ ~~~~~  ~~~ ~~~  ~~~~~~~~~~~~~~~~~~~~ ~~~~~ ~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~
+                                                                                         -->
+      <title>glass dildo - school girl - MFC Share 🌴</title>
+    <meta name="twitter:text:title" content="glass dildo - school girl" />
+    <meta name="twitter:title" content="glass dildo - school girl" />
+
+    <meta name="description" content="Click here to view the full album on MFC Share!" />
+    <meta name="twitter:description" content="Click here to view the full album on MFC Share!" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:image" content="https://share-cache-7.myfreecams.com/signed/1552338830/p13yNvJpVKJlK5rzwUx69A/0/y/k/0/yk0hkqe0/poster/custom.jpg?cb=1552198934" />
+
+
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimal-ui"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="theme-color" content="#003000">
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-57x57.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-114x114.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-72x72.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-144x144.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-60x60.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-120x120.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-76x76.png?nc=1" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://img.mfcimg.com/images/favicons/apple-touch-icon-152x152.png?nc=1" />
+  <link rel="icon" type="image/png" href="https://img.mfcimg.com/images/favicons/favicon-196x196.png?nc=1" sizes="196x196" />
+  <link rel="icon" type="image/png" href="https://img.mfcimg.com/images/favicons/favicon-96x96.png?nc=1" sizes="96x96" />
+  <link rel="icon" type="image/png" href="https://img.mfcimg.com/images/favicons/favicon-32x32.png?nc=1" sizes="32x32" />
+  <link rel="icon" type="image/png" href="https://img.mfcimg.com/images/favicons/favicon-16x16.png?nc=1" sizes="16x16" />
+  <link rel="icon" type="image/png" href="https://img.mfcimg.com/images/favicons/favicon-128.png?nc=1" sizes="128x128" />
+  <meta name="application-name" content="MFC Share" />
+  <meta name="msapplication-TileColor" content="#008000" />
+  <meta name="msapplication-TileImage" content="https://img.mfcimg.com/images/favicons/mstile-144x144.png?nc=1" />
+  <meta name="msapplication-square70x70logo" content="https://img.mfcimg.com/images/favicons/mstile-70x70.png?nc=1" />
+  <meta name="msapplication-square150x150logo" content="https://img.mfcimg.com/images/favicons/mstile-150x150.png?nc=1" />
+  <meta name="msapplication-wide310x150logo" content="https://img.mfcimg.com/images/favicons/mstile-310x150.png?nc=1" />
+  <meta name="msapplication-square310x310logo" content="https://img.mfcimg.com/images/favicons/mstile-310x310.png?nc=1" />
+
+
+
+  <link rel="stylesheet" media="all" href="/assets/application-3117604a75d35752efa4958a5076cc0eba2b9705fe6f4c690a99f5f5230bc6d0.css" async="async" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IC0u7W/OloAg2UQM26d5FmSvQ3XZuS1P3Ia2HD9COOPK737jjYWe6dz3DwrlH/OsDNtr2v2YD6S26kZydMlrKw==" />
+  <meta name="action-cable-url" content="/cable" />
+
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="push-notifications" content="no">
+
+  <script type="text/javascript">
+
+    var angularScope = null;
+      var chunked_upload = false;
+
+      var logged_in = true;
+      var current_user = {nick: "PebblesWon", avatar_img: "https://img.mfcimg.com/photos2/984/9848140/avatar.150x150.jpg?nc=1332955247", hidden: false, twitter: false, score: "", balance:0};
+    var balance_required = null;
+
+
+      var upload_server = "https://share.myfreecams.com/";
+      var upload_path = "https://share.myfreecams.com/api/v1/pieces/chunked";
+
+    var production = true;
+    var env = "production";
+    var basepath = "https://share.myfreecams.com/";
+    var base_url = "https://share.myfreecams.com";
+    var device_is_mobile = false;
+
+    var hide_header_on_scroll = false
+    var angularLoaded = true;
+    var canLogin = true;
+  </script>
+
+  <script src="/assets/application-39d7edc53bfbcced234a45ad265bde8207da08413cb792b7ccfd9bffd13772bb.js"></script>
+
+
+
+  <link id="font_loader" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Roboto:300,400,700|Amatic+SC|Bree+Serif|Crimson+Text|Dancing+Script|Gloria+Hallelujah|Indie+Flower|Josefin+Sans|Josefin+Slab|Open+Sans|Open+Sans+Condensed:300|Playfair+Display|Playfair+Display+SC|Poiret+One|Press+Start+2P|Roboto|Shadows+Into+Light|Shrikhand|Slabo+27px|Source+Code+Pro|Ubuntu" rel="stylesheet">
+
+
+</head>
+<body role="document" ng-controller="AlbumCtrl" class="level-user" data-no-turbolink="true" flow-drop>
+
+<script type="text/javascript">
+  if(window.innerWidth <= 1191){
+    document.body.className += " left-side-nav-hide";
+  }else{
+    document.body.className += " left-side-nav-show";
+  }
+</script>
+
+<div class="left-side-nav">
+  <div class="navbar-stub-container ">
+    <div class="navbar-stub">
+      <button class="btn btn-blank btn-lg btn-menu-slide left-side-nav-toggle-button mfcs-navbar-link-with-text">
+        <i class="icon-menu"></i>
+        <span class="visible-xs-block">Menu</span>
+      </button>
+      <a class="navbar-brand" href="/"><span></span></a>
+    </div>
+  </div>
+
+  <div class="left-side-nav-items">
+    <a href="/explore"><i class="icon-explore"></i><span class="collapsed-smaller">Explore</span></a>
+<a href="/albums/plays/today"><i class="icon-fire"></i><span class="collapsed-smaller">Most Viewed</span></a>
+<a href="/albums/newest?filter=free"><i class="icon-flash_on"></i><span class="collapsed-smaller">New Uploads</span></a>
+<a href="/models"><i class="icon-people"></i><span class="collapsed-smaller">Top Models</span></a>
+<a href="/models/live"><i class="icon-signal"></i><span class="collapsed-smaller">Online Now</span></a>
+<a href="/models/new"><i class="icon-new"></i><span class="collapsed-smaller">New Models</span></a>
+<a href="/suggestions"><i class="icon-suggestions"></i><span class="collapsed-smaller">Suggestions</span></a>
+<a href="/tags"><i class="icon-hash"></i><span class="collapsed-smaller">Popular Tags</span></a>
+
+    
+<div class="left-side-nav-line"></div>
+
+<a href="/feed"><i class="icon-subscriptions"></i><span class="collapsed-smaller">Feed</span></a>
+<a href="/activity"><i class="icon-timeline"></i><span class="collapsed-smaller">Activity</span></a>
+<a href="/favorites"><i class="icon-star"></i><span class="collapsed-smaller">Favorites</span></a>
+
+
+<a href="/history"><i class="icon-restore"></i><span class="collapsed-smaller">History</span></a>
+<a href="/models/following"><i class="icon-person_add"></i><span class="collapsed-smaller">Following</span></a>
+<a href="/tipped"><i class="icon-gift"></i><span class="collapsed-smaller">Tipped</span></a>
+
+<div class="collapsed-hidden">
+
+
+  <div class="left-side-nav-line"></div>
+  <div class="left-side-nav-header  collapsed-smaller text-center" style="padding-left:0px;">Recent Tips on Share</div>
+  <div class="nav-left-recently-tipped">
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/PollyDolll"><img src="https://img.mfcimg.com/photos2/232/23214434/avatar.150x150.jpg?nc=1538937544" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/PollyDolll"><span>PollyDolll</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/PollyDolll/goals">Goal</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/g/0qcelzw2"><span title="For education">For education</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Mira_xo"><img src="https://img.mfcimg.com/photos2/204/20444214/avatar.150x150.jpg?nc=1547917989" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Mira_xo"><span>Mira_xo</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Mira_xo/goals">Goal</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/g/2lby69k7"><span title="I really love tokens 3.0">I really love tokens 3.0</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Sophilovecute"><img src="https://img.mfcimg.com/photos2/286/28681933/avatar.150x150.jpg?nc=1545272265" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Sophilovecute"><span>Sophilovecute</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Sophilovecute/clubs">Club</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/m/975cxc0r"><span title="Sophieteam">Sophieteam</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/HaileyRoses"><img src="https://img.mfcimg.com/photos2/204/20414476/avatar.150x150.jpg?nc=1521193905" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/HaileyRoses"><span>HaileyRoses</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/HaileyRoses/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/lfefj65z"><span title="video games  turn me  on">video games  turn me  on</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/HaileyRoses"><img src="https://img.mfcimg.com/photos2/204/20414476/avatar.150x150.jpg?nc=1521193905" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/HaileyRoses"><span>HaileyRoses</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/HaileyRoses/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/nxhl3xsz"><span title="hot  tease">hot  tease</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/PollyDolll"><img src="https://img.mfcimg.com/photos2/232/23214434/avatar.150x150.jpg?nc=1538937544" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/PollyDolll"><span>PollyDolll</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/PollyDolll/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/8m7ppz7d"><span title="Spring is cuming for us">Spring is cuming for us</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/AnnAValentine"><img src="https://img.mfcimg.com/photos2/177/17748992/avatar.150x150.jpg?nc=1470861844" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/AnnAValentine"><span>AnnAValentine</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/AnnAValentine/goals">Goal</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/g/srzxu15u"><span title="bday GOAL :*">bday GOAL :*</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/FiadhLuna"><img src="https://img.mfcimg.com/photos2/177/17733407/avatar.150x150.jpg?nc=1538783896" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/FiadhLuna"><span>FiadhLuna</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/FiadhLuna/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/2rfjhgai"><span title="Hitachi Grind">Hitachi Grind</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/AnnAValentine"><img src="https://img.mfcimg.com/photos2/177/17748992/avatar.150x150.jpg?nc=1470861844" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/AnnAValentine"><span>AnnAValentine</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/AnnAValentine/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/2ttaet4c"><span title="butterflies">butterflies</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Ember_Lynne"><img src="https://img.mfcimg.com/photos2/294/29493613/avatar.150x150.jpg?nc=1542731885" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Ember_Lynne"><span>Ember_Lynne</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Ember_Lynne/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/3dk8ei10"><span title="Morning Quickie">Morning Quickie</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Kitten_Sophie"><img src="https://img.mfcimg.com/photos2/145/14557041/avatar.150x150.jpg?nc=1535330467" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Kitten_Sophie"><span>Kitten_Sophie</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Kitten_Sophie/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/2l524ld7"><span title="ANAL FUCK MACHINE VID!">ANAL FUCK MACHINE VID!</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/KittyDarlingg"><img src="https://img.mfcimg.com/photos2/166/16612328/avatar.150x150.jpg?nc=1549554333" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/KittyDarlingg"><span>KittyDarlingg</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/KittyDarlingg/goals">Goal</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/g/lr9hbgga"><span title="2019 GOALS BB">2019 GOALS BB</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Kayla_x"><img src="https://img.mfcimg.com/photos2/211/21113184/avatar.150x150.jpg?nc=1548465536" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Kayla_x"><span>Kayla_x</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Kayla_x/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/84ql0rwd"><span title="Blondie">Blondie</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/TireddAngel"><img src="https://img.mfcimg.com/photos2/308/30818198/avatar.150x150.jpg?nc=1546029596" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/TireddAngel"><span>TireddAngel</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/TireddAngel/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/uqh6101n"><span title="Soapy Shower">Soapy Shower</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+<div class="recently-tipped-item">
+  <div class="flex-row center nowrap ">
+
+    <div  class="noshrink">
+      <a class="avatar" href="/Brookebee27"><img src="https://img.mfcimg.com/photos2/250/25020450/avatar.150x150.jpg?nc=1504681803" /></a>
+    </div>
+
+    <div class="grow">
+      <div class="flex-row space-between center">
+        <div>
+          <a class="avatar" href="/Brookebee27"><span>Brookebee27</span></a>
+        </div>
+        <div>
+            <a class="text-light" href="/Brookebee27/albums">Album</a>
+        </div>
+      </div>
+      <div>
+        <a class="thing" href="/a/mvh2otjp"><span title="Before The Night Out - ** 1st Solo Video**">Before The Night Out - ** 1st Solo Video**</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+
+
+</div><!--collapsed-hidden-->
+
+    
+  </div>
+</div>
+
+<div class="outer-wrapper">
+<div class="wrapper">
+    <!-- Fixed navbar -->
+    <nav id="navbar-id" class="navbar navbar-fixed-top " style="">
+      <div class="container-fluid">
+        
+        <div class="text-right mfcs-navbar">
+  <div class="pull-left">
+    <button class="btn btn-blank btn-lg btn-menu-slide left-side-nav-show-button mfcs-navbar-link-with-text">
+      <i class="icon-menu"></i>
+      <span class="visible-xs-block">Menu</span>
+    </button>
+    <a class="navbar-brand" href="/">
+      <span></span>
+    </a>
+  </div>
+  <div class="mfcs-navbar-right">
+    <a href="/search" class="mfcs-navbar-link visible-xs-inline-block search-button-mobile mfcs-navbar-link-with-text">
+      <i class="visible-xs-inline icon-search mfcs-navbar-icon-lg"></i>
+      <span>Search</span>
+    </a>
+    <a href="/chats" class="mfcs-navbar-link mfcs-navbar-link-with-text">
+      <i class="icon-speech_bubble "></i>
+      <span>Chats</span>
+    </a>
+    <div class="dropdown inline-block">
+      <a href="#" class="btn-nav-avatar dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+        <img class="avatar-white" src="https://img.mfcimg.com/photos2/984/9848140/avatar.150x150.jpg?nc=1332955247" />
+        <img class="avatar-grey" src="https://img.mfcimg.com/photos2/984/9848140/avatar.150x150.jpg?nc=1332955247" />
+        <div class="nav-badge"></div>
+        <span class="hidden-xs">
+          PebblesWon
+          <i class="icon-down-dir"></i>
+        </span>
+      </a>
+      <ul class="dropdown-menu dropdown-menu-right z-index-1" role="menu">
+        <li>
+          <a class="dropdown-avatar" href="/feed">
+            <img src="https://img.mfcimg.com/photos2/984/9848140/avatar.150x150.jpg?nc=1332955247" />
+            <span>PebblesWon</span>
+          </a>
+        </li>
+        <li class="text-center">
+          <span class="token-balance-indicator">
+            <span class="balance">0</span>
+            Tokens
+          </span>
+        </li>
+        <li class="buy-tokens">
+          <a href="#purchase-tokens-modal" data-toggle="modal">Purchase Tokens</a>
+        </li>
+        <li>
+          <a href="/chats">
+            <i class="icon-speech_bubble"></i>My Chats</a>
+          <div class="nav-badge-item nav-badge-conversations"></div>
+        </li>
+        <li>
+          <a href="/feed">
+            <i class="icon-subscriptions"></i>My Feed</a>
+        </li>
+        <li>
+          <a href="/favorites">
+            <i class="icon-star"></i>My Favorites</a>
+        </li>
+        <li>
+          <a href="/my-clubs">
+            <i class="icon-group"></i>My Clubs</a>
+        </li>
+        <!--<li><a href="/chats"><i class="icon-people"></i>My Chats</a></li>-->
+        <li>
+          <a href="/tipped">
+            <i class="icon-gift"></i>My Tips</a>
+        </li>
+        <li>
+          <a href="/settings">
+            <i class="icon-cog-2"></i>Settings</a>
+        </li>
+          <li>
+    <a rel="nofollow" data-method="delete" href="/logout"><i class="icon-exit_to_app"></i>Log out</a>
+  </li>
+
+      </ul>
+    </div>
+  </div>
+  <!--navbar-->
+</div>
+<!--text-right-->
+
+        
+      </div>
+    </nav>
+
+    <div class="nav-progress" ng-cloak ng-if="show_header_progress_bar">
+      <div class="nav-progress-bar transition-ease" ng-style="{ 'width': header_progress_percent + '%' }"></div>
+      <span class="nav-progress-indicator"><i class="icon-spinner"></i>{{progressInt()}}%</span>
+    </div>
+
+    
+    
+
+
+
+
+    <div class="container-content container" role="main" style="">
+
+
+      <div ng-show="!album" id="non-album-container">
+        <div class="alert-container">
+        </div>
+        
+<div class="album-container" id="album-data" data-album-slug="dftjwokx" data-album-title="glass dildo - school girl" data-width="652" data-height="368">
+
+
+
+<div class="album-info-container"><!--title-->
+
+    <h3 class="center-mobile" style="margin-top:5px;">glass dildo - school girl</h3>
+
+    <div class="no-padding" style="margin-bottom:5px;">
+
+        <div class="pull-left">
+          <a href="/AlissonR_" class="avatar avatar-small user-link">
+            <img src="https://img.mfcimg.com/photos2/272/27212024/avatar.150x150.jpg?nc=1548709756" />AlissonR_
+          </a>
+          <span class="album-at hidden-xs">20 days ago</span>
+
+          <div style="display:inline-block;">
+                <a href="http://mfc.im/AlissonR_" target="_blank" class="btn btn-sm btn-green" style="margin-left:10px;">MFC</a>
+
+                  <span class="follow-buttons following">
+                    <a href="/api/v1/users/follow/AlissonR_" class="btn btn-sm unfollow-button" style="color:#aaa;" data-method="delete" data-remote="true" data-confirm="Are you sure you want to unfollow AlissonR_?"><i class="icon-person_add"></i><span class="hidden-xs"> Following</a></a>
+                    <a href="/api/v1/users/follow/AlissonR_" class="btn btn-sm btn-green follow-button" data-method="post" data-remote="true"><i class="icon-person_add"></i><span class="hidden-xs"> Follow</span></a>
+                  </span>
+          </div>
+        </div><!--pull-left-->
+
+
+      <div class="album-info">
+
+
+
+
+        <span class="counter hidden-xs pr5" title="515 views">
+          <i class="icon-eye"></i>515 views
+        </span>
+
+        <span class="counter hidden-xs pr5" title="4 favorites">
+          <i class="icon-star"></i>4
+        </span>
+
+
+        <span class="pr5 hidden-xs"></span>
+
+
+          <a class="btn btn-grey btn-sm hidden-xs" title="Share Album" href="#" onclick="shareAlbum()">
+            <i class="icon-paper-plane fa-lg"></i><span class="hidden-xs"> Share</span>
+          </a>
+
+
+            
+  <div class="like-button-container">
+    <a class="btn btn-grey like-button btn-sm" href="/api/v1/likes?album=dftjwokx" data-remote="true" data-method="post">
+      <i class="icon-star"></i>
+      <span class="hidden-xs">Favorite</span>
+    </a>
+
+    <a class="btn btn-grey btn-grey-used unlike-button btn-sm" href="/api/v1/likes?album=dftjwokx" data-remote="true" data-method="delete">
+      <i class="icon-ok"></i>
+      <span class="hidden-xs">Favorite</span>
+    </a>
+  </div>
+
+
+
+
+
+        </div>
+      <div style="clear:both; margin-bottom:5px;"></div>
+
+
+
+    </div>
+  </div>
+
+
+
+
+  <div class="album-info-container tags-container">
+      <a href="/tag/pussy/a/dftjwokx">#pussy</a>
+      <a href="/tag/glassdildo/a/dftjwokx">#glassdildo</a>
+      <a href="/tag/shcoolgirl/a/dftjwokx">#shcoolgirl</a>
+      <a href="/tag/naugthy/a/dftjwokx">#naugthy</a>
+      <a href="/tag/sexy/a/dftjwokx">#sexy</a>
+      <a href="/tag/dance/a/dftjwokx">#dance</a>
+      <a href="/tag/srtiptease/a/dftjwokx">#srtiptease</a>
+      <a href="/tag/cum/a/dftjwokx">#cum</a>
+      <a href="/tag/squirt/a/dftjwokx">#squirt</a>
+  </div>
+
+<div class="piece-list" style="margin-top:13px;">
+<div class="row secured-info">
+
+    <div class="col-md-6">
+      <div class="panel panel-default " style="">
+        <div class="panel-heading">
+          <h3>
+            <i class="icon-lock" title="This is a password protected album." data-toggle="tooltip" data-placement="right"></i>
+            Password Access
+          </h3>
+        </div>
+        <div class="panel-body" style="padding-top:5px; padding-bottom:9px;">
+          <form action="/a/dftjwokx" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="b3WvutFOu48TGlRAghjXwewRKRZTHw0h0JqGOazIrUNduQy75ZvrwUw7eCz/CNX1429jgHQpf39SKYZ+gOZtyw==" />
+              <div class="password-input ">
+              <input  type="text" class="input input-mfcs" placeholder="Enter Password for instant album access" name="password"/>
+                
+              </div>
+              <div style="margin-top:15px;">
+                <button type = "submit" class="upload-button btn btn-green" >
+                  <span style="">Submit</span>
+                </button>
+                <div style="clear:both;"></div>
+              </div>
+</form>        </div><!--panel-body-->
+      </div><!--panel-->
+    </div><!--col-->
+
+  
+
+  <div class="col-md-6">
+    <div class="panel panel-default mb0 panel-paywall">
+      <div class="panel-heading">
+          <i class="icon-gift"></i>
+          Instant Access
+
+      </div>
+
+      <div class="panel-body">
+
+
+
+            
+            <div class="">
+              <button type="button" data-toggle="modal" data-target="#tip-confirm-modal" class="upload-button btn btn-green full-width" >
+                <span>Tip
+                  150 Tokens</span>
+              </button>
+            </div>
+
+          <div class="clubprices">
+            <div class="clubprices-header">
+              Club Specials
+              (instead of 150 Tokens)
+            </div>
+
+              <div class="clubprices-clubprice ">
+                <a href="/m/u6pcouvp">LOS REYES (The Kings)</a><br>
+                <div class="clubprices-token-info">Club Members can access this Item for Free</div>
+              </div>
+
+              <div class="clubprices-clubprice ">
+                <a href="/m/vfri9939">Los Príncipes (The princes)</a><br>
+                <div class="clubprices-token-info">Club Members can access this Item for Free</div>
+              </div>
+
+              <div class="clubprices-clubprice ">
+                <a href="/m/f3zmdlb5">Los Toros (The Bulss)</a><br>
+                <div class="clubprices-token-info">Club Members can access this Item for Free</div>
+              </div>
+
+              <div class="clubprices-clubprice ">
+                <a href="/m/vh9glbhr">guys alisson ♥</a><br>
+                <div class="clubprices-token-info">Club Members can access this Item for Free</div>
+              </div>
+          </div>
+
+
+      </div><!--panel-body-->
+    </div><!--panel-->
+  </div><!--col-->
+
+
+
+
+</div><!--row-->
+</div><!--piece-list-->
+
+
+<div class="piece-list mt10">
+    <div class="piece-container" id="yk0hkqe0" data-width="1280" data-height="720" data-type="Video">
+      <div class="piece-mfcs piece-well item piece-Video">
+        <div class="black-bg" style="position:relative; overflow:hidden;">
+
+
+              <video autoplay loop muted playsinline class="preview-video-video" src="//share-cache-3.myfreecams.com/signed/1552338634/esufIzbadWs4TCSiVAE1-Q/0/y/k/0/yk0hkqe0/preview/hd.mp4?cb=1552198934" preload="auto" id="video_1419237">
+                <source src="//share-cache-3.myfreecams.com/signed/1552338634/esufIzbadWs4TCSiVAE1-Q/0/y/k/0/yk0hkqe0/preview/hd.mp4?cb=1552198934" type="video/mp4"/>
+              </video>
+                <span class="video-preview-audio-control muted" data-target="video_1419237" data-state="0">
+                  <i class="icon-volume-off"></i>
+                  <i class="icon-volume"></i>
+                </span>
+
+            <div class="video-preview-time-indicator">
+              <div class="blur-container">
+                <div class="blur"></div>
+                <i class="icon-videocam"></i>7 Minutes
+                &bull; <span class="">Downloadable</span>
+                &bull; 720p
+              </div>
+            </div>
+        </div>
+      </div><!--item-->
+    </div><!--piece-container-->
+
+</div><!--piece-list-->
+
+
+
+  <div class="piece-list">
+</div><!--piece-list-->
+
+
+
+<div class="piece-list">
+
+</div>
+
+
+
+
+
+</div><!--album-container-->
+
+
+    <div class="piece-list row thing-box-container more-user-albums similar-content-container" style="margin-bottom:50px; clear: both;">
+      <div class="thing-box-avatar flex-row">
+
+        <div class="flex-grow">
+          <a href="/AlissonR_" class="user-link">
+            <img width="32" height="32" alt="" src="https://img.mfcimg.com/photos2/272/27212024/avatar.150x150.jpg?nc=1548709756" />AlissonR_
+          </a>
+        </div>
+
+        <div>
+          <a data-replace=".similar-content-container" class="btn btn-grey btn-sm similar-content-reload ripple" data-remote="true" href="/api/v1/users/AlissonR_/similar_content?album=dftjwokx">Show More</a>
+          <a class="btn btn-grey btn-sm ripple" href="/AlissonR_/albums">All Albums</a>
+        </div>
+
+      </div>
+      <div class="row row-less-margin">
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-pdrsb5l4">
+  <a href="/a/pdrsb5l4" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>BUTT PLUG♥</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span><img src="//share-thumbs.myfreecams.com/0/q/2/r/q2re49cz/thumb/custom.jpg?cb=1552202984" class="thumb carousel-item active" width="" height=""/></span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">233 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-gy5vs9hz">
+  <a href="/a/gy5vs9hz" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>Teasing</span>
+      </span>
+    <div class="indicators-top-right">
+      <span><i class="icon-videocam"></i>3</span>
+    </div>
+  <span class="object-fit">
+    <video src="//share-cache-3.myfreecams.com/signed/1552278530/aCqirDzchXhqvUwAZZVw9A/0/x/e/j/xej0etdc/preview/sd.mp4?cb=1552197403" class="thumb carousel-item active horizontal" preload="none" poster="//share-thumbs.myfreecams.com/0/x/e/j/xej0etdc/thumb/3.jpg" playsinline="playsinline" muted="muted">
+      <source src="//share-cache-3.myfreecams.com/signed/1552278530/aCqirDzchXhqvUwAZZVw9A/0/x/e/j/xej0etdc/preview/sd.mp4?cb=1552197403" type="video/mp4"/>
+    </video>
+
+    <img src="//share-thumbs.myfreecams.com/0/x/e/j/xej0etdc/thumb/3.jpg" class="thumb carousel-first-thumbnail" width="" height=""/>
+  </span>
+  <span><img src="//share-thumbs.myfreecams.com/0/v/z/u/vzu54p0c/thumb/0.jpg" class="thumb carousel-item " width="" height=""/></span>
+  <span><img src="//share-thumbs.myfreecams.com/0/b/0/u/b0uqblwv/thumb/0.jpg" class="thumb carousel-item " width="" height=""/></span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            
+            <span class="thumb-premium-info">Club Only</span>
+          </span>
+        </span>
+      </span>
+
+      <i class="icon-play_circle_filled preview-indicator"></i>
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-sclwci38">
+  <a href="/a/sclwci38" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>SEXY NAKED♥</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span class="object-fit">
+    <video src="//share-cache-1.myfreecams.com/signed/1552276740/gNG_mqSvVTGoVxsPAOTc7Q/0/g/v/h/gvhns43u/preview/sd.mp4?cb=1552203029" class="thumb carousel-item active horizontal" preload="none" poster="//share-thumbs.myfreecams.com/0/g/v/h/gvhns43u/thumb/4.jpg" playsinline="playsinline" muted="muted">
+      <source src="//share-cache-1.myfreecams.com/signed/1552276740/gNG_mqSvVTGoVxsPAOTc7Q/0/g/v/h/gvhns43u/preview/sd.mp4?cb=1552203029" type="video/mp4"/>
+    </video>
+
+    <img src="//share-thumbs.myfreecams.com/0/g/v/h/gvhns43u/thumb/4.jpg" class="thumb carousel-first-thumbnail" width="" height=""/>
+  </span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">99 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+      <i class="icon-play_circle_filled preview-indicator"></i>
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-u2somx30">
+  <a href="/a/u2somx30" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>Deep Throat</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span class="object-fit">
+    <video src="//share-cache-3.myfreecams.com/signed/1552338634/fdy6e6g_Gt5R9MwvBj56RA/0/w/x/1/wx1c9bvg/preview/sd.mp4?cb=1552202999" class="thumb carousel-item active horizontal" preload="none" poster="//share-thumbs.myfreecams.com/0/w/x/1/wx1c9bvg/thumb/custom.jpg?cb=1552202999" playsinline="playsinline" muted="muted">
+      <source src="//share-cache-3.myfreecams.com/signed/1552338634/fdy6e6g_Gt5R9MwvBj56RA/0/w/x/1/wx1c9bvg/preview/sd.mp4?cb=1552202999" type="video/mp4"/>
+    </video>
+
+    <img src="//share-thumbs.myfreecams.com/0/w/x/1/wx1c9bvg/thumb/custom.jpg?cb=1552202999" class="thumb carousel-first-thumbnail" width="" height=""/>
+  </span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">111 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+      <i class="icon-play_circle_filled preview-indicator"></i>
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-3wyvb2c8">
+  <a href="/a/3wyvb2c8" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>hitachi butt pulg</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span><img src="//share-thumbs.myfreecams.com/0/9/m/f/9mfy8bek/thumb/1.jpg" class="thumb carousel-item active" width="" height=""/></span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">105 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-frpay2o3">
+  <a href="/a/frpay2o3" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>tease</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span><img src="//share-thumbs.myfreecams.com/rxz55ozi_thumb_play.jpg" class="thumb carousel-item active" width="" height=""/></span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            
+            
+            
+            <span class="thumb-premium-info">Club Only</span>
+          </span>
+        </span>
+      </span>
+
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-wyg9qxr3">
+  <a href="/a/wyg9qxr3" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>sexy Lotion and Hitachi ♥</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span class="object-fit">
+    <video src="//share-cache-2.myfreecams.com/signed/1552276740/A2aJk6GEkyIzT-fWjyUJ5A/0/0/g/i/0gipz31f/preview/sd.mp4?cb=1552197498" class="thumb carousel-item active horizontal" preload="none" poster="//share-thumbs.myfreecams.com/0/0/g/i/0gipz31f/thumb/5.jpg" playsinline="playsinline" muted="muted">
+      <source src="//share-cache-2.myfreecams.com/signed/1552276740/A2aJk6GEkyIzT-fWjyUJ5A/0/0/g/i/0gipz31f/preview/sd.mp4?cb=1552197498" type="video/mp4"/>
+    </video>
+
+    <img src="//share-thumbs.myfreecams.com/0/0/g/i/0gipz31f/thumb/5.jpg" class="thumb carousel-first-thumbnail" width="" height=""/>
+  </span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">222 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+      <i class="icon-play_circle_filled preview-indicator"></i>
+  </a>
+</div><!--col-->
+
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 swipeclass piece-container" id="album-2ccyxg2r">
+  <a href="/a/2ccyxg2r" class="item item-1d pull-left cycle" target="">
+      <span class="marquee album-title album-title-bottom">
+        <span>Blowjob school girl</span>
+      </span>
+    <div class="indicators-top-right">
+      
+    </div>
+  <span class="object-fit">
+    <video src="//share-cache-9.myfreecams.com/signed/1552278530/sTZniCJZBfExV8xKb8uYXw/0/r/6/w/r6wommih/preview/sd.mp4?cb=1552198966" class="thumb carousel-item active vertical" preload="none" poster="//share-thumbs.myfreecams.com/0/r/6/w/r6wommih/thumb/4.jpg" playsinline="playsinline" muted="muted">
+      <source src="//share-cache-9.myfreecams.com/signed/1552278530/sTZniCJZBfExV8xKb8uYXw/0/r/6/w/r6wommih/preview/sd.mp4?cb=1552198966" type="video/mp4"/>
+    </video>
+
+    <img src="//share-thumbs.myfreecams.com/0/r/6/w/r6wommih/thumb/4.jpg" class="thumb carousel-first-thumbnail" width="" height=""/>
+  </span>
+
+
+      <span class="thumb-premium-info-container ">
+        <span class="thumb-premium-info-container-2">
+          <span class="thumb-premium-info-container-3">
+            <span class="thumb-premium-info"><i class="icon-lock"></i>PW</span>
+            
+            <span class="thumb-premium-info"><span class="token-amount-info">105 Tokens</span></span>
+            
+          </span>
+        </span>
+      </span>
+
+      <i class="icon-play_circle_filled preview-indicator"></i>
+  </a>
+</div><!--col-->
+
+        <div style="clear:both;"></div>
+      </div>
+      <!--row-->
+    </div>
+    <!--piece-list-->
+
+
+
+
+<script type="text/javascript">
+
+
+// define options (if needed)
+// Initializes and opens PhotoSwipe
+$(function() {
+  var gallery = null;
+  var gallery_options = {};
+
+  $('.item-slide').on("click",function(evt){
+    var index = $(this).data("index");
+    var origTarget = evt.target;
+
+    if (origTarget && origTarget.href) {
+      return;
+    }
+
+    gallery_options = {galleryPIDs:true, history:true,index:index};
+    gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, galleryItems, gallery_options);
+    gallery.init();
+
+  });
+
+  var hashData = getHashData();
+  if(hashData != null) {
+
+
+    var index = 0;
+    for (index = 0; index < galleryItems.length; ++index) {
+      var galleryItem = galleryItems[index];
+
+      if(galleryItem.pid == hashData){
+        break;
+      }
+    }
+
+        gallery_options = {galleryPIDs:true, history:true,index:index};
+        gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, galleryItems, gallery_options);
+        gallery.init();
+  }
+
+  $('.items_per_page').on('change', function() {
+    $(this).parents('form').submit()
+  });
+
+});
+</script>
+
+
+
+
+      </div>
+
+      <div ng-if="album && !album.is_story" ng-include src="'/templates/album.html'"></div>
+      <div ng-if="album && album.is_story" ng-include src="'/templates/story.html'"></div>
+      <div ng-if="!album">
+        <div ng-if="auction" ng-include src="'/templates/auction.html'"></div>
+        <div ng-if="item" ng-include src="'/templates/item.html'"></div>
+        <div ng-if="club" ng-include src="'/templates/club.html'"></div>
+        <div ng-if="goal" ng-include src="'/templates/goal.html'"></div>
+        <div ng-if="poll" ng-include src="'/templates/poll.html'"></div>
+        <div ng-if="tweet_config" ng-include src="'/templates/tweet_config.html'"></div>
+        <div ng-if="special" ng-include src="'/templates/special.html'"></div>
+        <div ng-if="code" ng-include src="'/templates/code.html'"></div>
+        <div ng-if="war" ng-include src="'/templates/war.html'"></div>
+      </div>
+
+    </div><!--container-content-->
+
+
+    
+
+
+    <noscript>Please enable Javascript. Otherwise MFCS will not work properly.</noscript>
+
+
+
+
+
+
+</div><!--wrapper-->
+
+
+    <div class="footer">
+      <div>
+        <a href="https://twitter.com/mfcshare" target="_blank"><i class="icon-abp-twitter"></i></a>
+        <a href="https://instagram.com/mfcshare" target="_blank"><i class="icon-instagram"></i></a>
+      </div>
+      <div>
+        <span class="hidden-xxs">&copy; 2019 MFC Share &bull;</span>
+        <a href="http://wiki.myfreecams.com/wiki/MFC_Share" target="_blank">Wiki</a> &bull;
+        <a href ="http://wiki.myfreecams.com/wiki/Terms_and_Conditions" target="_blank">Terms</a> &bull;
+        <a href="http://wiki.myfreecams.com/wiki/18_U.S.C._2257_Record_Keeping_Requirements_Compliance_Statement" target="_blank">2257</a> &bull;
+        <a data-toggle="modal" href="#contact">Contact Us</a> &bull;
+        <a href="https://www.myfreecams.com" target="_blank">MyFreeCams</a> &bull;
+        <a href="https://wiki.myfreecams.com/wiki/Becoming_a_Webcam_Model_at_MyFreeCams" target="_blank">Become a Model</a>
+      </div>
+    </div>
+
+</div><!--outer-wrapper-->
+
+<div class="search-bar search-bar-top hidden-xs " ng-if="!show_header_progress_bar">
+<form class="" action="/search" accept-charset="UTF-8" method="get">
+    <input type="hidden" name="model" id="model" value="AlissonR_" />
+  <input type="text" name="q" id="q" placeholder="" class="" />
+  <button type="submit" class="btn btn-blank">
+    <i class="icon-search"></i>
+  </button>
+  <button type="button" class="btn btn-blank visible-xs search-bar-top-hide-button">
+    <i class="icon-cancel"></i>
+  </button>
+
+</form></div>
+
+
+<span id="message-bar">
+  <i class="icon-info-circled fa-lg"></i><span></span>
+</span>
+
+  <!--
+<div class="online-indicator-container">
+<a class="online-indicator" href="http://mfc.im/AlissonR_" target='_blank'>
+  <img src="https://img.mfcimg.com/photos2/272/27212024/avatar.150x150.jpg?nc=1548709756" />
+  <span class="username">AlissonR_</span> <span class="live">LIVE</span>
+</a>
+</div>
+-->
+<div class="campreview-link">
+  <div class="campreview-header">
+    <a class="" href="http://mfc.im/AlissonR_" target='_blank'>
+      <img src="https://img.mfcimg.com/photos2/272/27212024/avatar.150x150.jpg?nc=1548709756" />
+      <span class="username">AlissonR_<span class="online-now-text"> is online now!</span></span>
+    </a>
+    <span class="campreview-show  btn btn-grey pull-right ripple"><i class="icon-up-open-big"></i></span>
+    <span class="campreview-hide  btn btn-grey pull-right ripple"><i class="icon-down-open-big"></i></span>
+    <span class="campreview-toggle-size btn btn-grey pull-right ripple"><i class=" icon-resize-full"></i></span>
+  </div>
+  <a href="http://mfc.im/AlissonR_" target="_blank" class="campreview" data-original-video-id="10000546" data-campreview-sid="546" data-campreview-mid="27212024"></a>
+</div>
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+var pswpElement = document.querySelectorAll('.pswp')[0];
+</script>
+
+<div class="modal fade" id="mfc-mail-modal" tabindex="-1" role="dialog" data-album-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Send MFC Mail to <span class="mfc-mail-to">Name_goes_here</span></h4>
+      </div>
+      <div class="modal-body">
+
+        <form class="mfc-mail-form" id="mfc_mail_form" action="/api/v1/mfcmails" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+            <input type="hidden" name="to" id="mfc_mail_to" />
+            <input type="hidden" name="object_type" id="mfc_mail_object_type" />
+            <input type="hidden" name="object_slug" id="mfc_mail_object_slug" />
+
+            <div class="form-group">
+              <textarea name="message" id="mfc_mail_message" class="form-control" rows="8">
+</textarea>
+            </div>
+
+            <div class="text-right">
+              <button type="button" class="btn btn-grey ripple" data-dismiss="modal">Cancel</button>
+              <input type="submit" name="commit" value="Send" class="btn btn-green ripple" data-disable-with="Send" />
+            </div>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  var sendMfcMailModal = function(to,object_type,object_slug){
+    $('#mfc-mail-modal .mfc-mail-to').text(to);
+    $('#mfc-mail-modal #mfc_mail_to').val(to);
+    $('#mfc-mail-modal #mfc_mail_message').val(null);
+    $('#mfc-mail-modal #mfc_mail_object_type').val(object_type);
+    $('#mfc-mail-modal #mfc_mail_object_slug').val(object_slug);
+    $('#mfc-mail-modal').modal("show");
+  }
+
+
+  $('#mfc_mail_form').bind("ajax:success", function(xhr, data, status) {
+    $('#mfc-mail-modal').modal("hide");
+  });
+</script>
+
+<div class="modal fade" id="purchase-tokens-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-item-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <span>Purchase Tokens</span>
+      </div>
+      <div class="modal-body">
+
+        <div id="purchase-tokens-load-indicator"><i class="icon-spin2 animate-spin"></i>LOADING...</div>
+        <iframe frameborder="0" data-src="https://www.myfreecams.com/php/purchase.php?request=tokens&amp;style_override=embed&amp;css=https%3A%2F%2Fshare.myfreecams.com%2Ftoken-iframe-style.css&amp;return_url=https%3A%2F%2Fshare.myfreecams.com%2Fa%2Fdftjwokx%3Ftokens_purchased%3Dtrue&amp;return_title=glass+dildo+-+school+girl" id="purchase-tokens-iframe">
+          LOADING
+        </iframe>
+
+
+        <div id="purchase-tokens-thank-you">
+
+          <div></div>
+          <button type="button" class="btn btn-green" data-dismiss="modal">Continue</button>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<div class="modal fade" id="embed-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-album-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Embed Album</h4>
+      </div>
+      <div class="modal-body">
+        <form class="form">
+          <div class="form-group" >
+            <input class="form-control" onclick="this.select()" style="font-size:11px;" rows="1"/>
+          </div>
+        </form>
+
+        <a href="#" data-dismiss="modal" class="btn btn-green btn-small">Done</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="share-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document" style="max-width:450px;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="share-modal-title">Share Album</h4>
+      </div>
+      <div class="modal-body">
+
+        <ul class="nav nav-tabs" role="tablist" id="share-modal-tabs" data-user-twitter="">
+          <li role="presentation" class="hidden " id="twitter-link-tab"><a href="#twitter-link" aria-controls="home" role="tab" data-toggle="tab">Twitter</a></li>
+          <li role="presentation" class="active" id="share-link-tab"><a href="#share-link" aria-controls="home" role="tab" data-toggle="tab">Share</a></li>
+          <!-- <li role="presentation" id="direct-link-tab"><a href="#direct-link" aria-controls="home" role="tab" data-toggle="tab">Direct Link</a></li> -->
+          <li role="presentation" id="embed-code-tab"><a href="#embed" aria-controls="home" role="tab" data-toggle="tab">Embed</a></li>
+        </ul>
+
+        <div class="tab-content" style="padding-top:10px;">
+
+          <div role="tabpanel" class="tab-pane " id="twitter-link">
+              <div class="mb10">
+                <p>MFC Share is currently not authorized to tweet on your behalf. Please visit your <a target="_blank" href="/settings#twitter">settings</a> to enable this feature.</p>
+              </div>  
+          </div><!--twitter-link-->
+
+          <div role="tabpanel" class="tab-pane active" id="share-link">
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control" id="share-modal-url-input" onclick="this.select()" style="font-size:11px;" rows="1"/>
+                  <input type="hidden" id="share-modal-title"/>
+              </div>
+            </form>
+
+            <button class="copy-button btn btn-green float-left clipboard" data-clipboard-target="#share-modal-url-input">Copy</button>
+            <!--<button class="btn btn-green share-network float-left" data-share-network="reddit" data-share-input="share-modal-url-input"><i class="icon-reddit-alien fa-fw"></i></button>-->
+            <!--<button class="btn btn-green share-network float-left" data-share-network="tumblr" data-share-input="share-modal-url-input"><i class="icon-tumblr fa-fw"></i></button>-->
+            <button class="btn btn-green share-network float-left" data-share-network="twitter" data-share-input="share-modal-url-input"><i class="icon-abp-twitter fa-fw"></i> Tweet</button>
+
+            <a href="#" data-dismiss="modal" class="btn btn-green" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+          </div><!--share_link-->
+
+          <div role="tabpanel" class="tab-pane" id="direct-link">
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control" id="share-modal-direct-link-input" onclick="this.select()" style="font-size:11px;" rows="1"/>
+              </div>
+            </form>
+
+            <button class="copy-button btn btn-green float-left clipboard" data-clipboard-target="#share-modal-direct-link-input">Copy</button>
+            <button class="btn btn-green share-network float-left" data-share-network="reddit" data-share-input="share-modal-direct-link-input"><i class="icon-reddit-alien fa-fw"></i></button>
+          <!--  <button class="btn btn-green share-network float-left" data-share-network="tumblr" data-share-input="share-modal-direct-link-input"><i class="fa fa-tumblr fa-fw"></i></button>-->
+            <button class="btn btn-green share-network float-left" data-share-network="twitter" data-share-input="share-modal-direct-link-input"><i class="icon-abp-twitter fa-fw"></i></button>
+
+            <a href="#" data-dismiss="modal" class="btn btn-green" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+
+          </div><!--share_link-->
+
+          <div role="tabpanel" class="tab-pane" id="embed">
+            <div class="clearfix" id="share-embed-options">
+              <div class="checkbox inline-block">
+                <input type="checkbox" id="share-modal-toggle-embed-profile" value="1" checked onchange="shareGenericUpdateHeaderOption(this)"/>
+                <label for="share-modal-toggle-embed-profile" style="padding-left:5px;">
+                 Show avatar & social media
+                </label>
+              </div>
+            </div>
+
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control share-modal-embed-input" id="share-modal-embed-input" onclick="this.select()" style="font-size:11px;" rows="1"/>
+              </div>
+            </form>
+
+
+
+
+            <button class="copy-button btn btn-green float-left clipboard" data-clipboard-target="#share-modal-embed-input">Copy</button>
+            <a href="#" data-dismiss="modal" class="btn btn-green" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+
+          </div><!--share_link-->
+
+      </div>
+
+    </div><!--modal-body-->
+  </div><!--modal-content-->
+</div><!--modal-dialog-->
+</div><!--modal-->
+
+<div class="modal fade" id="contact" tabindex="-1" role="dialog">
+  <div class="modal-dialog " role="document" style="">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <span>Contact Us</span>
+      </div>
+      <div class="modal-body">
+
+        Have any questions not answered in our <a href="http://wiki.myfreecams.com/wiki/MFC_Share" target="_blank">wiki</a> or suggestions?
+
+        <br/><br/>
+        Email us: <a href="mailto:mfcshare@myfreecamsmail.com" class="mail-feedback" target="_blank">mfcshare@myfreecamsmail.com</a>
+
+
+
+      </div><!--modal-body-->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-green" data-dismiss="modal" aria-label="Close">OK</button>
+      </div>
+    </div><!--modal-content-->
+  </div><!--modal-dialog-->
+</div><!--modal-->
+
+<script type="text/javascript">
+  $('#share-preview-tweet').on('input', function(e) {
+      var tw = twttr.txt.parseTweet( $('#share-preview-tweet').val() );
+      if ( !tw.valid ) {
+          $('#share-tweet-errors').html("Invalid Tweet length");
+          $('#share-tweet-errors').removeClass("hide");
+        } else {
+          $('#share-tweet-errors').addClass("hide");
+        }
+
+        $('#share-tweet-length').html(tw.weightedLength);  
+  });
+ 
+</script>
+
+
+    <div class="modal fade" id="tip-confirm-modal" tabindex="-1" role="dialog" data-album-id="">
+      <div class="modal-dialog" role="document" style="max-width:400px; margin-left:auto; margin-right:auto;">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Confirm Tip</h4>
+          </div>
+
+          <form class="disable-after-submit" action="/a/dftjwokx" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="aZaX3ky/yQVtZkSfugQ7QLmKeMrUomChQy3WODtH2yRbWjTfeGqZSzJHaPPHFDl0tvQyXPOUEv/BntZ/F2kbrA==" />
+          <div class="modal-body">
+            <div style="margin-bottom:15px;">
+              Please confirm that you would like to tip <b>150 Tokens</b> to
+                for instant access to this album.
+
+
+              </div>
+
+
+
+
+
+              <div class="alert alert-danger token-balane-insufficient" style="display:none;">
+  You currently have <span class="balance"></span> Tokens. <i class="icon-replay reload-balance pointer"></i><br/>
+  <a data-dismiss="modal" href="#purchase-tokens-modal" data-toggle="modal">Click here to purchase more Tokens.</a>
+</div>
+
+<script type="text/javascript">
+  balance_required = 150;
+</script>
+
+              <input type="hidden" name="tip" id="tip" value="150" />
+              <input type="text" name="tip_message" id="tip_message" value="" placeholder="Message to AlissonR_ (optional)" class="input input-mfcs" maxlength="250" />
+
+
+
+              <div style="color:grey;">
+
+
+                  <div class="checkbox mt15">
+                    <input type="checkbox" data-toggle="toggle" name="hidden_by_user" id="hidden_by_user"/>
+                    <label for="hidden_by_user" style="padding-left:5px; font-size:12px; line-height:20px;">
+                      Don't show my username on the Goal page
+                    </label>
+                  </div>
+
+                  <div class="checkbox">
+                    <input type="checkbox" data-toggle="toggle" name="dont_announce" id="announce-tip"/>
+                    <label for="announce-tip" style="padding-left:5px; font-size:12px; line-height:20px;">
+                      Don't announce Tip in
+                      AlissonR_'s Chat Room
+                    </label>
+                  </div>
+              </div>
+            </div>
+            <div class="modal-footer text-left">
+              <button type="button" class="btn btn-grey" data-dismiss="modal">Cancel</button>
+              <button type="submit" class="btn btn-green" id="tip_button">Tip
+                150 Tokens</button>
+            </div>
+</form>        </div>
+      </div>
+    </div>
+
+
+
+
+
+<script src="/assets/postloadx-dec544420233f442b0783ec1c9e5e757ab7d143f23a5eb94566a137410bed022.js"></script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-295864-18', 'auto');
+      ga('create', 'UA-106130491-1', 'auto', {'name': 'tracker2'});
+      ga('send', 'pageview');
+      ga('tracker2.send', 'pageview');
+  </script>
+
+  <script src="https://www.myfreecams.com/php/tracking.php?model_id=27212024&path=%2Fa%2Fdftjwokx" type="text/javascript" async="async"></script>
+
+
+</body>
+</html>
